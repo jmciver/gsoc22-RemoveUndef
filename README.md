@@ -9,7 +9,7 @@ This repository contains documention in support of GSoC22 project "Remove undef:
 ## LLVM Patches
 
 * [D128501: \[CodeGen\] Make uninitialized Lvalue bit-field stores poison compatible](https://reviews.llvm.org/D128501)
-* [D129541: \[llvm\]\[IPO\] Add IR function attribute fine_grained_bitfields](https://reviews.llvm.org/D12954)
+* [D129541: \[llvm\]\[IPO\] Add IR function attribute fine_grained_bitfields](https://reviews.llvm.org/D129541)
 * [D129542: \[CodeGen\] Add codegen of IR function attribute fine\_grained\_bitfields](https://reviews.llvm.org/D129542)
 
 ## Discourse
